@@ -6,7 +6,7 @@
 <h3 align="center">MCA Student | Full Stack Developer (MERN + Next.js)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+MongoDB;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+MongoDB;Building+Real-World+Projects+%F0%9F%9A%80;DSA+Practice+on+LeetCode+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" />
 </p>
 
 <p align="center">
@@ -19,6 +19,9 @@
   <a href="mailto:ayushvishwakarmadto29@gmail.com">
     <img src="https://img.shields.io/badge/Email-ayushvishwakarmadto29%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/AYUSH_VISHWAKARMA_/">
+    <img src="https://img.shields.io/badge/LeetCode-AYUSH__VISHWAKARMA__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <p align="center">
@@ -30,6 +33,7 @@
 ## 🚀 About Me
 - 🎓 MCA Student  
 - 💻 Full Stack Developer: **React | Next.js | Node.js | MongoDB**
+- 🧠 Practicing DSA on **LeetCode**
 - 🌱 Currently learning: **AI/ML + Python for Data Science**
 - 🎯 Goal: **High paying tech role + continuous upskilling**
 - ⚡ I love: **Coding, real projects, logical problem solving & business growth**
@@ -132,6 +136,9 @@
   </a>
   <a href="mailto:ayushvishwakarmadto29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ayushvishwakarmadto29%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/AYUSH_VISHWAKARMA_/">
+    <img src="https://img.shields.io/badge/LeetCode-AYUSH__VISHWAKARMA__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
