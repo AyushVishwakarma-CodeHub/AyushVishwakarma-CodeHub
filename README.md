@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ayush%20Raj&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlign=50&descAlignY=55)
+<!-- PROFILE README for AyushVishwakarma-CodeHub -->
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=210&text=Ayush%20Raj&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlign=50&descAlignY=55)
 
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">MCA Student | Full Stack Developer (MERN + Next.js)</h3>
@@ -35,8 +37,35 @@
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,sql,mongodb,firebase,java,cpp,python,git,github,vscode" />
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ---
