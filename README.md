@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-AyushVishwakarma--CodeHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/ayushraj2908">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Vishwakarma-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Raj-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ayushvishwakarmadto29@gmail.com">
     <img src="https://img.shields.io/badge/Email-ayushvishwakarmadto29%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
