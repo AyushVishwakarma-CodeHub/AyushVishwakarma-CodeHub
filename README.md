@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ayush%20Raj&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlign=50&descAlignY=55)
+
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">MCA Student | Full Stack Developer (MERN + Next.js)</h3>
 
