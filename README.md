@@ -122,12 +122,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushVishwakarma-CodeHub&theme=flat&margin-w=12" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 <p align="center">
