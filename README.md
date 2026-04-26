@@ -78,29 +78,43 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Bhasha-Verify</h3>
-      <p align="center">
-        AI-Powered Multilingual Scam Detection Platform<br><br>
-        <b>Tech:</b> PHP, Aiven Cloud MySQL, Twilio WhatsApp API, React , Tailwind CSS, Framer Motion
-      </p>
-      <p align="center">
-        <a href="https://bhasha-verify.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
+  <h3 align="center">Bhasha-Verify</h3>
+  <p align="center">
+    AI-Powered Multilingual Scam Detection Platform<br><br>
+    <b>Tech:</b> PHP, Aiven Cloud MySQL, Twilio WhatsApp API, React, Tailwind CSS, Framer Motion
+  </p>
+
+  <p align="center">
+  <!-- Live Demo -->
+  <a href="https://bhasha-verify.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <!-- Repo -->
+  <a href="https://github.com/AyushVishwakarma-CodeHub/Bhasha-Verify" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+</td>
     <td width="50%">
-      <h3 align="center">CampusBite</h3>
-      <p align="center">
-       Smart Food Ordering System<br><br>
-        <b>Tech:</b> React, Vite, Vanilla CSS, Node.js, Express.js, MongoDB, Python, Scikit-learn
-      </p>
-      <p align="center">
-        <a href="https://campusbitelive.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
+  <h3 align="center">CampusBite</h3>
+  <p align="center">
+    Smart Food Ordering System<br><br>
+    <b>Tech:</b> React, Vite, Vanilla CSS, Node.js, Express.js, MongoDB, Python, Scikit-learn
+  </p>
+
+  <p align="center">
+  <!-- Live Demo -->
+  <a href="https://campusbite-live.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <!-- Repo -->
+  <a href="https://github.com/AyushVishwakarma-CodeHub/CampusBite" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+</td>
   </tr>
 </table>
 
