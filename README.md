@@ -84,7 +84,7 @@
         <b>Tech:</b> PHP, Aiven Cloud MySQL, Twilio WhatsApp API, React , Tailwind CSS, Framer Motion
       </p>
       <p align="center">
-        <a href="bhasha-verify.vercel.app" target="_blank">
+        <a href="https://bhasha-verify.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
