@@ -78,10 +78,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">TechHireHub</h3>
+      <h3 align="center">Bhasha-Verify</h3>
       <p align="center">
-        Job Portal Web App<br><br>
-        <b>Tech:</b> Next.js, Node.js, MongoDB
+        AI-Powered Multilingual Scam Detection Platform<br><br>
+        <b>Tech:</b> PHP, Aiven Cloud MySQL, Twilio WhatsApp API, React , Tailwind CSS, Framer Motion
       </p>
       <p align="center">
         <a href="https://github.com/AyushVishwakarma-CodeHub" target="_blank">
