@@ -84,7 +84,7 @@
         <b>Tech:</b> PHP, Aiven Cloud MySQL, Twilio WhatsApp API, React , Tailwind CSS, Framer Motion
       </p>
       <p align="center">
-        <a href="https://github.com/AyushVishwakarma-CodeHub" target="_blank">
+        <a href="bhasha-verify.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -92,11 +92,11 @@
     <td width="50%">
       <h3 align="center">CampusBite</h3>
       <p align="center">
-        Food Ordering Web App<br><br>
-        <b>Tech:</b> React.js, Node.js, MongoDB, Firebase
+       Smart Food Ordering System<br><br>
+        <b>Tech:</b> React, Vite, Vanilla CSS, Node.js, Express.js, MongoDB, Python, Scikit-learn
       </p>
       <p align="center">
-        <a href="https://github.com/AyushVishwakarma-CodeHub" target="_blank">
+        <a href="https://campusbitelive.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
