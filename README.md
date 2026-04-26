@@ -105,7 +105,7 @@
 
   <p align="center">
   <!-- Live Demo -->
-  <a href="https://campusbite-live.vercel.app" target="_blank">
+  <a href="https://campusbitelive.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
